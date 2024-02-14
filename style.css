@@ -1,0 +1,26 @@
+.test {
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 85vh;
+    background: linear-gradient(rgba(255, 255, 255, .5), rgba(255, 255, 255, .5)), url("1.jpg");
+    background-position: 50% 0%;
+}
+
+.input-fields {
+    position: relative;
+    top: 40vh;
+}
+
+.labels {
+    position: relative;
+    top: 41vh;
+}
+
+input {
+    width: 50px;
+border: 2px solid #84928A;
+background-color: #84928A;
+}
+tr:hover td{
+    background-color: #84928A;
+}
